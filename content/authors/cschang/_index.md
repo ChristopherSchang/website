@@ -97,9 +97,6 @@ I am an Economics Ph.D. Researcher at the European University Institute. My thes
  
 My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Housing and Monetary Economics. 
 
-
-**I am on the 2024/25 Job Market.** 
-
 You can reach me at christopher.schang [at] eui.eu
 
 {style="text-align: justify;"} 
