@@ -40,9 +40,9 @@ bio: My research interests include Quantitative Macroeconomics, Housing, Monetar
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate Economics
+    - course: PhD in Economics
       institution: European University Institute
-      year: 2025 (expected)
+      year: 2025 
     - course: MRes in Economics
       institution: European University Institute
       year: 2020
@@ -92,7 +92,9 @@ highlight_name: true
  
 ---
 
-I am an Economics Ph.D. Researcher at the European University Institute. My thesis advisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. Previously, I was a Research Analyst at DG-International at the European Central Bank.
+This fall, I will join the chair of Macroeconomics at the Karlsruhe Institute of Technology as a postdoctoral researcher, working with <a href="https://johannesbrumm.com/" target="_blank" rel="noopener noreferrer">Prof. Johannes Brumm</a>.
+
+I hold a PhD in Economics from the European University Institute. My thesis advisors were <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. Previously, I was a Research Analyst at DG-International at the European Central Bank.
 
  
 My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Housing and Monetary Economics. 
