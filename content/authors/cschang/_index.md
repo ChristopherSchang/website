@@ -19,8 +19,8 @@ role: Ph.D. Researcher
   
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: European University Institute
-    url: https://www.eui.eu/
+  - name: Karlsruhe Institute of Technology
+    url: https://www.kit.edu/
 
 
 # Interests to show in About widget
@@ -60,7 +60,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:christopher.schang@eui.eu'
+    link: 'mailto:christopher.schang@kit.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -84,7 +84,7 @@ social:
     link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'christopher.schang@eui.eu'
+email: 'christopher.schang@kit.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -92,13 +92,12 @@ highlight_name: true
  
 ---
 
-This fall, I will join the chair of Macroeconomics at the Karlsruhe Institute of Technology as a postdoctoral researcher, working with <a href="https://johannesbrumm.com/" target="_blank" rel="noopener noreferrer">Prof. Johannes Brumm</a>.
+I am a postdoctoral researcher at the Karlsruhe Institute of Technology, working at the chair of Macroeconomics with <a href="https://johannesbrumm.com/" target="_blank" rel="noopener noreferrer">Prof. Johannes Brumm</a>.
 
 I hold a PhD in Economics from the European University Institute. My thesis advisors were <a href="https://sites.google.com/site/coopereconomics/" target="_blank" rel="noopener noreferrer">Prof. Russell Cooper</a> and <a href="https://alexandermonge.com" target="_blank" rel="noopener noreferrer">Prof. Alexander Monge-Naranjo</a>. Previously, I was a Research Analyst at DG-International at the European Central Bank.
 
- 
-My Research focuses on Quantitative Macroeconomics with Heterogenous Agents, Housing and Monetary Economics. 
+My Research focuses on Quantitative Macroeconomics with Heterogenous Agents and I am interested in topics related to Household Finance, Demographics, Housing and Monetary Economics. 
 
-You can reach me at christopher.schang [at] eui.eu
+You can reach me at christopher.schang [at] kit.edu
 
 {style="text-align: justify;"} 
